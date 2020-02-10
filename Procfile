@@ -1,1 +1,1 @@
-portfolio: vendor/bin/heroku-php-apache2 portfolio/
+jordan-portfolio: vendor/bin/heroku-php-apache2 jordan-portfolio/
