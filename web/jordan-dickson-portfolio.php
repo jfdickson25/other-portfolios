@@ -392,15 +392,19 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <table style="border:solid;">
-                        <tr>
-                          <th>Course Code</th>
-                        </tr>
+                <table class="table">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">#</th>
+                      <th scope="col">First</th>
+                      <th scope="col">Last</th>
+                      <th scope="col">Handle</th>
+                    </tr>
+                  </thead>
+                  <tbody>
                 <?
                   require "connect.php";
                   $db = get_db();
-
-                  print_r($db);
 
                   foreach ($db->query('SELECT 
                                         code AS "Course Code"
@@ -408,16 +412,17 @@
                                       , grade AS "Grade"
                                       FROM courses') AS $row) {
                     ?>
+
                         <tr>
-                          <td> <? echo $row['Course Code']; ?></td>
-                          <td> <? echo $row['Course Description']; ?></td>
-                          <td> <? echo $row['Grade']; ?></td>
+                          <td><? echo $row['Course Code'];?></td>
+                          <td><? echo $row['Course Description'];?></td>
+                          <td><? echo $row['Grade']; ?></td>
                         </tr>
 
                     <?
                   }
                 ?>
-
+                </tbody>
                 </table>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
