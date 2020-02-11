@@ -393,31 +393,9 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-`````
-                <!-- <? /*if ($count == 0)) {
-                      foreach($db->query('SELECT courseCode, course, grade FROM courses') AS $row) {
-                      ?>
-
-                        <table class="table" style="border:solid; border-color:#2c3e50">
-                          <thead class="thead-dark">
-                            <tr>
-                              <th scope="col">Class Code</th>
-                              <th scope="col">Class Description</th>
-                              <th scope="col">Grade</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td><? echo $row['courseCode'] ?></td>
-                              <td><? echo $row['course'] ?></td>
-                              <td><? echo $row['grade'] ?></td>
-                            </tr>
-                          </tbody>
-                        </table>
-
-                    <? $count = 1;
-                      }
-                }?>*/ 
+                <?
+                  require "dbConnect.php";
+                  $db = get_db();
                 ?>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
