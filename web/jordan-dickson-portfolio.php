@@ -398,11 +398,10 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
                 <?
-                /*
+                
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     echo $row['courseCode'];
                   }
-                */
                 ?>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
