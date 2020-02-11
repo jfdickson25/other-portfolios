@@ -405,11 +405,13 @@
                   require "connect.php";
                   $db = get_db();
 
-                  foreach ($db->query('SELECT 
+                  $statement = $db->prepare('SELECT 
                                         code AS "Course Code"
                                       , course AS "Course Description"
                                       , grade AS "Grade"
-                                      FROM courses') AS $row) {
+                                      FROM courses'); 
+                  $statement->execute();
+                  while ($row = $statement->fetch(PDO::FETCH_ASSOC)){
                     ?>
 
                         <tr>
