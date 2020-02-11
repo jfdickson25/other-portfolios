@@ -22,11 +22,6 @@
 </head>
 <body id="page-top">
 
-  <?
-    require "dbConnect.php";
-    $db = get_db();
-  ?>
-
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
     <div class="container">
@@ -52,6 +47,11 @@
       </div>
     </div>
   </nav>
+
+  <?
+    require "dbConnect.php";
+    $db = get_db();
+  ?>
 
   <!-- Masthead -->
   <header class="masthead bg-primary text-white text-center, back-color">
