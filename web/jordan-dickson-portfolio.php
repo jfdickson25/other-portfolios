@@ -392,13 +392,12 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <table class="table">
+                <table class="table" style="border:solid">
                   <thead class="thead-dark">
                     <tr>
-                      <th scope="col">#</th>
-                      <th scope="col">First</th>
-                      <th scope="col">Last</th>
-                      <th scope="col">Handle</th>
+                      <th scope="col">Course Code</th>
+                      <th scope="col">Course Description</th>
+                      <th scope="col">Grade</th>
                     </tr>
                   </thead>
                   <tbody>
