@@ -400,10 +400,12 @@
                   require "connect.php";
                   $db = get_db();
 
+                  print_r($db);
+
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     ?>
                         <tr>
-                          <td> <? echo $row->courseCode; ?></td>
+                          <td> <? echo $row['courseCode']; ?></td>
                         </tr>
 
                     <?
