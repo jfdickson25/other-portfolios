@@ -6,7 +6,7 @@
 
     foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
         
-         echo $row['courseCode']; 
+        echo $row['courseCode']; 
 
     }
 ?>
