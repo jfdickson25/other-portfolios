@@ -409,7 +409,7 @@
                 <!-- Portfolio Modal - Image -->
 
                 <? if ($count == 0)) {
-                      foreach($db->query('SELECT courseCode, course, grade FROM courses') AS $row)
+                      foreach($db->query('SELECT courseCode, course, grade FROM courses') AS $row) {
                       ?>
 
                         <table class="table" style="border:solid; border-color:#2c3e50">
@@ -430,6 +430,7 @@
                         </table>
 
                     <? $count = 1;
+                      }
                 }?>
 
 
