@@ -393,10 +393,10 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <?/*
+                <?
                   require "dbConnect.php";
                   $db = get_db();
-
+                  /*
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     echo $row['courseCode'];
                   }*/
