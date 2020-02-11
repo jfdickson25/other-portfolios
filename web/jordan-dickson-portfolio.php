@@ -400,7 +400,17 @@
                 <?
                 
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
-                    echo $row['courseCode'];
+                    ?>
+                      <table style="border:solid;">
+                        <tr>
+                          <th>Course Code</th>
+                        </tr>
+                        <tr>
+                          <td> <? echo $row['courseCode']; ?></td>
+                        </tr>
+                      </table>
+
+                    <?
                   }
                 ?>
 
