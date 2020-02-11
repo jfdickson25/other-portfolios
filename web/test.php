@@ -4,7 +4,7 @@
 
     print_r($db);
 
-    foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
+    foreach ($db->query('SELECT courseCode  FROM courses') as $row) {
         
         echo $row['courseCode']; 
 
