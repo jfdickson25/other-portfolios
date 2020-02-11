@@ -401,8 +401,8 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-
-                <? if ($count == 0)) {
+`````
+                <!-- <? /*if ($count == 0)) {
                       foreach($db->query('SELECT courseCode, course, grade FROM courses') AS $row) {
                       ?>
 
@@ -425,8 +425,8 @@
 
                     <? $count = 1;
                       }
-                }?>
-
+                }?>*/ 
+                ?>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
