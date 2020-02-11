@@ -392,25 +392,25 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <?
-                  require "connect.php";
-                  $db = get_db();
-                  
-                  foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
-                    ?>
-
-                      <table style="border:solid;">
+                <table style="border:solid;">
                         <tr>
                           <th>Course Code</th>
                         </tr>
+                <?
+                  require "connect.php";
+                  $db = get_db();
+
+                  foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
+                    ?>
                         <tr>
                           <td> <? echo $row['courseCode']; ?></td>
                         </tr>
-                      </table>
 
                     <?
                   }
                 ?>
+
+                </table>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
