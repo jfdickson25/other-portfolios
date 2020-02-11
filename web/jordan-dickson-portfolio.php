@@ -1,10 +1,16 @@
+<?php
+  session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
-  <?php
+<?php
 
-  require "dbConnect.php";
-  $db = get_db();
+    require "dbConnect.php";
+    $db = get_db();
+
+    $count = 0;
   
   ?>
 
@@ -20,7 +26,8 @@
   <!-- Custom fonts for this theme -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+    type="text/css">
 
   <!-- Theme CSS -->
   <link href="css/freelancer.min.css" rel="stylesheet">
@@ -34,7 +41,9 @@
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">My Portfolio</a>
-      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
+        type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+        aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
       </button>
@@ -159,17 +168,20 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+          <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the
+            complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy
+            customization.</p>
         </div>
         <div class="col-lg-4 mr-auto">
-          <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p>
+          <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and
+            add your email address to the contact form to make it fully functional!</p>
         </div>
       </div>
 
     </div>
   </section>
 
-  
+
 
   <!-- Footer -->
   <footer class="footer text-center">
@@ -179,7 +191,8 @@
         <!-- Footer Social Icons -->
         <div class="col-lg-4 mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-4" id="contact">Contact Me </h4>
-          <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20" target="_top">
+          <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20"
+            target="_top">
             <i class="fas fa-envelope"></i>
           </a>
           <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson">
@@ -214,7 +227,8 @@
   <!-- Portfolio Modals -->
 
   <!-- Portfolio Modal 1 -->
-  <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+  <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog"
+    aria-labelledby="portfolioModal1Label" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
       <div class="modal-content">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -237,15 +251,19 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Jordan-Dickson.png" alt="" height="512px" width="512px;">
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Jordan-Dickson.png" alt="" height="512px"
+                  width="512px;">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5" style="font-weight:bold">I am from Washington State. Being from the Pacific Northwest I am passionate about the outdoors. 
-                  I love to go hiking, camping, and visit new places. Here in this picture I am in Tacoma which is one of
-                  my favorite cities. Here I can visit a few of my favorite places like the Gran Cinema where I can catch a movie, 
+                <p class="mb-5" style="font-weight:bold">I am from Washington State. Being from the Pacific Northwest I
+                  am passionate about the outdoors.
+                  I love to go hiking, camping, and visit new places. Here in this picture I am in Tacoma which is one
+                  of
+                  my favorite cities. Here I can visit a few of my favorite places like the Gran Cinema where I can
+                  catch a movie,
                   or The Social Ice Cream parlor....which is pretty obvious why I go there. </p>
-                  <hr>
-                  <br>
-                  <br>
+                <hr>
+                <br>
+                <br>
                 <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">My Family</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
@@ -255,10 +273,12 @@
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
-                <img class="img-fluid rounded mb-5" src="img/portfolio/family-photo.png" alt="" height="512px" width="512px;">
-                <p class="mb-5" style="font-weight:bold">This is my family. I am the youngest of seven children and proud uncle of 15 neices and nephews. Growing
-                   up in a big family has given me a great appreciation for strong families. I love getting to spend time
-                   with them and do my best to keep in touch and let them know I love them.
+                <img class="img-fluid rounded mb-5" src="img/portfolio/family-photo.png" alt="" height="512px"
+                  width="512px;">
+                <p class="mb-5" style="font-weight:bold">This is my family. I am the youngest of seven children and
+                  proud uncle of 15 neices and nephews. Growing
+                  up in a big family has given me a great appreciation for strong families. I love getting to spend time
+                  with them and do my best to keep in touch and let them know I love them.
                 </p>
                 <br>
                 <br>
@@ -275,11 +295,13 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/spain.png" alt="" height="300px" width="300px;">
-                <p class="mb-5" style="font-weight:bold">For two years I was a missionary for the Church of Jesus Christ of Latter Day Saints. During my time
-                   I had the chance to look for service opportunities in Spain and share my beliefs with others. This was
-                   a very special time for me. I learned to love Spain and the people of Spain as I served them.
-                   Because of these experiences I had and how much I loved serving others, I continue to look for opportunities to 
-                   give service to those around me.
+                <p class="mb-5" style="font-weight:bold">For two years I was a missionary for the Church of Jesus Christ
+                  of Latter Day Saints. During my time
+                  I had the chance to look for service opportunities in Spain and share my beliefs with others. This was
+                  a very special time for me. I learned to love Spain and the people of Spain as I served them.
+                  Because of these experiences I had and how much I loved serving others, I continue to look for
+                  opportunities to
+                  give service to those around me.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -294,7 +316,8 @@
   </div>
 
   <!-- Portfolio Modal 2 -->
-  <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-labelledby="portfolioModal2Label" aria-hidden="true">
+  <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog"
+    aria-labelledby="portfolioModal2Label" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
       <div class="modal-content">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -338,11 +361,13 @@
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
-                
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Asteroids game" height="512px" width="512px">
+
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Asteroids game" height="512px"
+                  width="512px">
                 <p class="mb-5">This was my first big project.</p>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Asteroids.png" alt="Asteroids game" height="512px" width="512px">
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Asteroids.png" alt="Asteroids game"
+                  height="512px" width="512px">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">This was our big project to finish out object oriented programming.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
@@ -358,7 +383,8 @@
   </div>
 
   <!-- Portfolio Modal 3 -->
-  <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-labelledby="portfolioModal3Label" aria-hidden="true">
+  <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog"
+    aria-labelledby="portfolioModal3Label" aria-hidden="true">
     <div class="modal-dialog modal-xl" role="document">
       <div class="modal-content">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -382,35 +408,31 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
 
+                <? if ($count == 0)) {
+                      foreach($db->query('SELECT courseCode, course, grade FROM courses') AS $row)
+                      ?>
 
-                <table class="table" style="border:solid; border-color:#2c3e50">
-                  <thead class="thead-dark">
-                    <tr>
-                      <th scope="col">Class Code</th>
-                      <th scope="col">Class Description</th>
-                      <th scope="col">Grade</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>CS124</td>
-                      <td>Intro to Software Development</td>
-                      <td>A</td>
-                    </tr>
-                    <tr>
-                      <td>CS165</td>
-                      <td>Object Oriented Programming</td>
-                      <td>A</td>
-                    </tr>
-                    <tr>
-                      <td>CS235</td>
-                      <td>Data Structures</td>
-                      <td>A</td>
-                    </tr>
-                  </tbody>
-                </table>
-                
-                
+                        <table class="table" style="border:solid; border-color:#2c3e50">
+                          <thead class="thead-dark">
+                            <tr>
+                              <th scope="col">Class Code</th>
+                              <th scope="col">Class Description</th>
+                              <th scope="col">Grade</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td><? echo $row->courseCode ?></td>
+                              <td><? echo $row->course ?></td>
+                              <td><? echo $row->grade ?></td>
+                            </tr>
+                          </tbody>
+                        </table>
+
+                    <? $count = 1;
+                }?>
+
+
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
