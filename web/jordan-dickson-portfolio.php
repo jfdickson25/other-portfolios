@@ -20,7 +20,10 @@
   <link href="portfolio.css" rel="stylesheet">
 
 </head>
-
+  <?
+    require "dbConnect.php";
+    $db = get_db();
+  ?>
 <body id="page-top">
 
   <!-- Navigation -->
@@ -394,8 +397,6 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
                 <?
-                  require "dbConnect.php";
-                  $db = get_db();
                   /*
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     echo $row['courseCode'];
