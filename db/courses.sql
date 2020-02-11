@@ -7,7 +7,7 @@ CREATE TABLE courses
 ( id                        SERIAL        NOT NULL UNIQUE PRIMARY KEY
 , grade      VARCHAR(2)  NOT NULL
 , course     VARCHAR(100)  NOT NULL
-, courseCode  VARCHAR(10) NOT NULL
+, courseCode VARCHAR(10) NOT NULL
 );
 
 
