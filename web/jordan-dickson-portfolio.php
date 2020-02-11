@@ -416,15 +416,15 @@
                           </thead>
                           <tbody>
                             <tr>
-                              <td><? echo $row->courseCode ?></td>
-                              <td><? echo $row->course ?></td>
-                              <td><? echo $row->grade ?></td>
+                              <td><? echo $row['courseCode'] ?></td>
+                              <td><? echo $row['course'] ?></td>
+                              <td><? echo $row['grade'] ?></td>
                             </tr>
                           </tbody>
                         </table>
 
                     <? $count = 1;
-                      }
+                      };
                 }?>
 
 
