@@ -48,7 +48,7 @@
   </nav>
 
   <!-- Masthead -->
-  <header class="masthead bg-primary text-white text-center">
+  <header class="masthead bg-primary text-white text-center, back-color">
     <div class="container d-flex align-items-center flex-column">
 
       <!-- Masthead Avatar Image -->
@@ -67,7 +67,7 @@
       </div>
 
       <!-- Masthead Subheading -->
-      <p class="masthead-subheading font-weight-light mb-0">Software Engineer</p>
+      <p class="masthead-subheading font-weight-light mb-0">Software Engineering - BYU-Idaho</p>
 
     </div>
   </header>
@@ -134,7 +134,7 @@
   </section>
 
   <!-- About Section -->
-  <section class="page-section bg-primary text-white mb-0" id="about">
+  <section class="page-section bg-primary text-white mb-0, back-color" id="about">
     <div class="container">
 
       <!-- About Section Heading -->
@@ -228,24 +228,20 @@
     <div class="container">
       <div class="row">
 
-        <!-- Footer Location -->
-        <div class="col-lg-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Location</h4>
-          <p class="lead mb-0">2215 John Daniel Drive
-            <br>Clark, MO 65243</p>
-        </div>
-
         <!-- Footer Social Icons -->
         <div class="col-lg-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Around the Web</h4>
+          <h4 class="text-uppercase mb-4">Around the Web  </h4>
+          <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20" target="_top">
+            <i class="fas fa-envelope"></i>
+          </a>
+          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson">
+            <i class="fab fa-fw fa-linkedin-in"></i>
+          </a>
           <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37">
             <i class="fab fa-fw fa-facebook-f"></i>
           </a>
           <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/jfdickson25">
             <i class="fab fa-fw fa-instagram"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson">
-            <i class="fab fa-fw fa-linkedin-in"></i>
           </a>
         </div>
 
@@ -397,9 +393,40 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/circus.png" alt="">
-                <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+
+
+                <table class="table" style="border:solid; border-color:#2c3e50">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col">Class Code</th>
+                      <th scope="col">Class Description</th>
+                      <th scope="col">Professor</th>
+                      <th scope="col">Grade</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>CS124</td>
+                      <td>Intro to Software Development</td>
+                      <td>Professor Hansen</td>
+                      <td>A</td>
+                    </tr>
+                    <tr>
+                      <td>CS165</td>
+                      <td>Object Oriented Programming</td>
+                      <td>Professor Macbeth</td>
+                      <td>A</td>
+                    </tr>
+                    <tr>
+                      <td>CS235</td>
+                      <td>Data Structures</td>
+                      <td>Professor Barney</td>
+                      <td>A</td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+                
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
