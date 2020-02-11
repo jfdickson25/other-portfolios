@@ -1,11 +1,5 @@
 <?php
   session_start();
-?>
-
-<!DOCTYPE html>
-<html lang="en">
-
-<?php
 
     require "dbConnect.php";
     $db = get_db();
