@@ -19,11 +19,6 @@
   <link href="css/freelancer.min.css" rel="stylesheet">
   <link href="portfolio.css" rel="stylesheet">
 
-  <?php 
-    require "connect.php";
-    $db = get_db();
-  ?>
-
 </head>
 <body id="page-top">
 
@@ -398,9 +393,12 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
                 <?
-                
+                  require "connect.php";
+                  $db = get_db();
+                  
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     ?>
+
                       <table style="border:solid;">
                         <tr>
                           <th>Course Code</th>
