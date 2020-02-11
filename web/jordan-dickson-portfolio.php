@@ -402,11 +402,16 @@
 
                   print_r($db);
 
-                  foreach ($db->query('SELECT course, grade FROM courses') AS $row) {
+                  foreach ($db->query('SELECT 
+                                        code AS "Course Code"
+                                      , course AS "Course Description"
+                                      , grade AS "Grade"
+                                      FROM courses') AS $row) {
                     ?>
                         <tr>
-                          <td> <? echo $row['course']; ?></td>
-                          <td> <? echo $row['grade']; ?></td>
+                          <td> <? echo $row['Course Code']; ?></td>
+                          <td> <? echo $row['Course Description']; ?></td>
+                          <td> <? echo $row['Grade']; ?></td>
                         </tr>
 
                     <?
