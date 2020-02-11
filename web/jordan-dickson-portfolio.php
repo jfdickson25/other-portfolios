@@ -402,10 +402,10 @@
 
                   print_r($db);
 
-                  foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
+                  foreach ($db->query('SELECT course FROM courses') AS $row) {
                     ?>
                         <tr>
-                          <td> <? echo $row['courseCode']; ?></td>
+                          <td> <? echo $row['course']; ?></td>
                         </tr>
 
                     <?
