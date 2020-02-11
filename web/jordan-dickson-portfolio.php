@@ -20,11 +20,12 @@
   <link href="portfolio.css" rel="stylesheet">
 
 </head>
+<body id="page-top">
+
   <?
     require "dbConnect.php";
     $db = get_db();
   ?>
-<body id="page-top">
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
