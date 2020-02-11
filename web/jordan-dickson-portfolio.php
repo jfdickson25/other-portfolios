@@ -405,7 +405,7 @@
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     ?>
                         <tr>
-                          <td> <? echo $row['courseCode']; ?></td>
+                          <td> <? echo $row; ?></td>
                         </tr>
 
                     <?
