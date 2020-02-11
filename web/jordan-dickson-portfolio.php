@@ -405,7 +405,7 @@
                   require "connect.php";
                   $db = get_db();
 
-                  foreach ($db->query('SELECT 
+                  foreach ($db->prepare('SELECT 
                                         code AS "Course Code"
                                       , course AS "Course Description"
                                       , grade AS "Grade"
