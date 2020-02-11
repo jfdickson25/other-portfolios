@@ -48,11 +48,6 @@
     </div>
   </nav>
 
-  <?
-    require "dbConnect.php";
-    $db = get_db();
-  ?>
-
   <!-- Masthead -->
   <header class="masthead bg-primary text-white text-center, back-color">
     <div class="container d-flex align-items-center flex-column">
@@ -398,12 +393,11 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
                 <?
-                  /*
+                  require "connect.php";
+                  $db = get_db();
                   foreach ($db->query('SELECT courseCode FROM courses') AS $row) {
                     echo $row['courseCode'];
-                  }*/
-
-                  echo "hello";
+                  }
                 ?>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
