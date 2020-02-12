@@ -526,7 +526,8 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/MyResume.png" alt="My Resume" height="512px"
                   width="512px;" style="padding:15px; border:solid">
                 <br>
-                <a href="Resume2020.pdf" class="btn btn-primary btn-lg mb-3 mt-3" role="button" aria-disabled="true" target="_blank" width="250px">PDF</a>
+                <a href="Resume2020.pdf" class="btn btn-primary btn-lg mb-3" role="button" aria-disabled="true" target="_blank" width="250px">PDF</a>
+                <br>
                 <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
