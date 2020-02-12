@@ -32,6 +32,41 @@ INSERT INTO courses   ( code
                         , 'Data Structures'
                         , 'A');
 
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS246'
+                        , 'Software Design and Development'
+                        , 'A');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS213'
+                        , 'Web Engineering 1'
+                        , 'A-');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS308'
+                        , 'Technical Communications'
+                        , 'A');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CIT270'
+                        , 'Systems Security'
+                        , 'B+');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('ECEN160'
+                        , 'Fundamentals of Digital Systems'
+                        , 'A-');
+
 
 \echo --*********************List all from character*********************--
 SELECT 
