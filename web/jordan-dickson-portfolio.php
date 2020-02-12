@@ -357,14 +357,14 @@
                 <br>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Asteroids game" height="512px"
                   width="512px">
-                <p class="mb-5">This was my first big project.</p>
+                <p class="mb-5, description">This was my first big project.</p>
                 <!-- Portfolio Modal - Image -->
                 <h3 class="title">Asteroids:</h3>
                 <br>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Asteroids.png" alt="Asteroids game"
                   height="512px" width="512px">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">This was our big project to finish out object oriented programming.</p>
+                <p class="mb-5, description">This was our big project to finish out object oriented programming.</p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
