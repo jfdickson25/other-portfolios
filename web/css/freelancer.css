@@ -165,7 +165,7 @@ a {
 }
 
 a:hover {
-  color: #117964;
+  color: #ced4da;
   text-decoration: underline;
 }
 
@@ -1739,7 +1739,7 @@ pre code {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #6bebd1;
+  border-color: #ced4da;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(26, 188, 156, 0.25);
 }
@@ -2789,7 +2789,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #117964;
+  color: #ced4da;
   text-decoration: underline;
 }
 
@@ -3445,13 +3445,13 @@ input[type="button"].btn-block {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #6bebd1;
+  border-color: #ced4da;
 }
 
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
   color: #fff;
-  background-color: #98f1df;
-  border-color: #98f1df;
+  background-color: #ced4da;
+  border-color: #ced4da;
 }
 
 .custom-control-input:disabled ~ .custom-control-label {
@@ -3585,7 +3585,7 @@ input[type="button"].btn-block {
 }
 
 .custom-select:focus {
-  border-color: #6bebd1;
+  border-color: #ced4da;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(26, 188, 156, 0.25);
 }
@@ -3644,7 +3644,7 @@ input[type="button"].btn-block {
 }
 
 .custom-file-input:focus ~ .custom-file-label {
-  border-color: #6bebd1;
+  border-color: #ced4da;
   box-shadow: 0 0 0 0.2rem rgba(26, 188, 156, 0.25);
 }
 
@@ -3742,7 +3742,7 @@ input[type="button"].btn-block {
 }
 
 .custom-range::-webkit-slider-thumb:active {
-  background-color: #98f1df;
+  background-color: #ced4da;
 }
 
 .custom-range::-webkit-slider-runnable-track {
@@ -3773,7 +3773,7 @@ input[type="button"].btn-block {
 }
 
 .custom-range::-moz-range-thumb:active {
-  background-color: #98f1df;
+  background-color: #ced4da;
 }
 
 .custom-range::-moz-range-track {
@@ -3806,7 +3806,7 @@ input[type="button"].btn-block {
 }
 
 .custom-range::-ms-thumb:active {
-  background-color: #98f1df;
+  background-color: #ced4da;
 }
 
 .custom-range::-ms-track {
@@ -4603,7 +4603,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
   z-index: 2;
-  color: #117964;
+  color: #ced4da;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -9368,7 +9368,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #117964 !important;
+  color: #ced4da !important;
 }
 
 .text-secondary {
