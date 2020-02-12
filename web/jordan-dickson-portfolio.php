@@ -195,12 +195,12 @@
 
         <div class="col-md-6 col-lg-4" style="text-align:center">
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
-            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-200 w-200">
               <div class="portfolio-item-caption-content text-center text-white">
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/resume.png" alt="" height="800px" width="512px">
+            <img class="img-fluid" src="img/portfolio/resume.png" alt="" height="800px" width="800px">
           </div>
         </div>
 
