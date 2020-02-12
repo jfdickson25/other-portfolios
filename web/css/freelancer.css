@@ -9752,7 +9752,7 @@ a.text-dark:hover, a.text-dark:focus {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: #ced4da;
+  background-color: #ced4da !important;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
