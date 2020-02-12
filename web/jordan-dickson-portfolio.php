@@ -365,6 +365,8 @@
                   height="512px" width="512px">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5, description">This was our big project to finish out object oriented programming.</p>
+                <br>
+                <br>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
@@ -435,6 +437,8 @@
                 ?>
                 </tbody>
                 </table>
+                <br>
+                <br>
 
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
