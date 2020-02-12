@@ -4,3 +4,7 @@ p {
 .back-color {
     background-color: grey !important;
 }
+
+.title {
+    align-self: left;
+}
