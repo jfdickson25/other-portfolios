@@ -327,10 +327,10 @@
                 </div>
 
 
-                <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Shopping Cart</a>
+                <a href="https://frozen-reaches-00850.herokuapp.com/prove/prove03/browse_items.php" class="btn btn-primary btn-lg" role="button" aria-disabled="true">Shopping Cart</a>
                 <br>
                 <br>
-                <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Fighting Simulator</a>
+                <a href="https://frozen-reaches-00850.herokuapp.com/prove/prove05/prove05.php" class="btn btn-primary btn-lg" role="button" aria-disabled="true">Fighting Simulator</a>
 
 
                 <br>
