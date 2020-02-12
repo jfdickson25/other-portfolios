@@ -25,7 +25,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-light text-uppercase fixed-top text-dark" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger text-dark" href="#page-top">My Portfolio</a>
+      <h1 class="navbar-brand js-scroll-trigger text-dark">My Portfolio</h1>
     </div>
   </nav>
 
