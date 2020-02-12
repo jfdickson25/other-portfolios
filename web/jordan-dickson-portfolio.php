@@ -150,7 +150,7 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">I am a hard worker. I bring a attitude of being willing to learn. I work well in teams
+          <p class="lead">I am a hard worker and I bring a attitude of someone willing to learn. I work well in teams
                           and I pride myself on communicating well with others. I am also a fast learner and am willing
                           to put in my own personal time to learn skills needed for the job.
           </p>
@@ -158,7 +158,7 @@
         <div class="col-lg-4 mr-auto">
           <p class="lead">I am goal driven. I believe that progress is not only good but necessary. Short term and
                           long term goals have helped me get to where I am today. I feel like I would be a great 
-                          addition to any company looking for a intern who is ready to give it their all!
+                          addition to any company looking for an intern who is ready to give it their all!
           </p>
         </div>
       </div>
@@ -259,10 +259,8 @@
                 <p class="mb-5" style="font-weight:bold">I am from Washington State. Being from the Pacific Northwest I
                   am passionate about the outdoors.
                   I love to go hiking, camping, and visit new places. Here in this picture I am in Tacoma which is one
-                  of
-                  my favorite cities. Here I can visit a few of my favorite places like the Gran Cinema where I can
-                  catch a movie,
-                  or The Social Ice Cream parlor....which is pretty obvious why I go there. </p>
+                  of my favorite cities. Here I can visit a few of my favorite places like the Grand Cinema where I can
+                  catch a movie, or The Social Ice Cream parlor....which is pretty obvious why I go there. </p>
                 <hr>
                 
                 <h2 class="portfolio-modal-title text-dark text-uppercase mb-0 mt-3">My Family</h2>
@@ -297,12 +295,11 @@
                 </div>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/spain.png" alt="Spain Icon" height="300px" width="300px;">
                 <p class="mb-5" style="font-weight:bold">For two years I was a missionary for the Church of Jesus Christ
-                  of Latter Day Saints. During my time
-                  I had the chance to look for service opportunities in Spain and share my beliefs with others. This was
-                  a very special time for me. I learned to love Spain and the people of Spain as I served them.
-                  Because of these experiences I had and how much I loved serving others, I continue to look for
-                  opportunities to
-                  give service to those around me.
+                  of Latter Day Saints in Barcelona Spain. While there
+                  I had the chance to look for service opportunities and share my beliefs with others. This was
+                  a very special time for me. I learned to love the culture and the people of Spain as I served them.
+                  Because of the experiences I had and how much I loved serving others, I continue to look for
+                  opportunities to give service to those around me.
                 </p>
                 <button class="btn btn-primary" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
@@ -389,7 +386,7 @@
                                              of the first projects where I took the initiative to go above and beyond.
                                              It was only required to make asteroids, I wanted to make the project my
                                              own. I added colors and a scoring mechanism that would let the user know
-                                             how well they did. It would also congradulate the user on winning or 
+                                             how well they did. It would also congratulate the user on winning or 
                                              present a message if they died. I also made it loop so the user could
                                              choose to play again if they died or if they won the game.</p>
                 <br>
