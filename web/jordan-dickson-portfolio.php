@@ -413,7 +413,7 @@
                 <h3>Willing to learn more</h3>
 
 
-                <button class="btn btn-primary mt-9" href="#" data-dismiss="modal">
+                <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
                 </button>
