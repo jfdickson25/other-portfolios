@@ -183,6 +183,9 @@
         <div class="divider-custom-line"></div>
       </div>
 
+      <br>
+      <br>
+
       <!-- Portfolio Grid Items -->
       <div class="row">
 
