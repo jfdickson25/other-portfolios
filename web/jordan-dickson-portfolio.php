@@ -70,6 +70,7 @@
       <!-- Masthead Subheading -->
       <p class="masthead-subheading font-weight-light mb-0">Software Engineering - BYU-Idaho</p>
 
+      <span>
       <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20"
         target="_top">
         <i class="fas fa-envelope"></i>
@@ -83,6 +84,7 @@
       <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37" target="_blank">
         <i class="fab fa-fw fa-facebook-f"></i>
       </a>
+      </span>
 
     </div>
   </header>
