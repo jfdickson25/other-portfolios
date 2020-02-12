@@ -70,7 +70,7 @@
       <!-- Masthead Subheading -->
       <p class="masthead-subheading font-weight-light mb-0">Software Engineering - BYU-Idaho</p>
 
-      <span>
+      <span class="mt-3">
       <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20"
         target="_top">
         <i class="fas fa-envelope"></i>
