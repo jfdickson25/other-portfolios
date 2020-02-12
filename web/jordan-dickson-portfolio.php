@@ -26,7 +26,7 @@
   <nav class="navbar navbar-expand-lg bg-light text-uppercase fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">My Portfolio</a>
-      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
+      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-dark rounded"
         type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
         aria-expanded="false" aria-label="Toggle navigation">
         Menu
@@ -151,7 +151,7 @@
   </section>
 
   <!-- About Section -->
-  <section class="page-section bg-primary text-white mb-0, back-color" id="whyme">
+  <section class="page-section text-white mb-0 back-color" id="whyme">
     <div class="container">
 
       <!-- About Section Heading -->
@@ -183,7 +183,7 @@
   </section>
 
   <!-- Copyright Section -->
-  <section class="copyright py-4 text-center text-white">
+  <section class="copyright py-4 bg-light text-center text-dark">
     <div class="container">
       <small>Copyright &copy; Jordan Dickson 2020</small>
     </div>
