@@ -180,13 +180,13 @@
             target="_top">
             <i class="fas fa-envelope"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson" target="_blank">
             <i class="fab fa-fw fa-linkedin-in"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/jfdickson25/cs313.git">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/jfdickson25/cs313.git" target="_blank">
             <i class="fab fa-github"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37">
+          <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37" target="_blank">
             <i class="fab fa-fw fa-facebook-f"></i>
           </a>
         </div>
