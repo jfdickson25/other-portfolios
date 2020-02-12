@@ -361,6 +361,8 @@
                                              would permit the user to interact with a Sudoku board. It was challenging as 
                                              it was my first time writing code. Althought it was challenging it was also
                                              very satisfying to finish and have something that I had created on my own.</p>
+                <br>
+                <br>
                 <!-- Portfolio Modal - Image -->
                 <h3 class="title">Asteroids:</h3>
                 <br>
