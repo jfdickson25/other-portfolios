@@ -97,7 +97,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/user.png" alt="" height="512px" width="512px">
+            <img class="img-fluid" src="img/portfolio/user.png" alt="User Avatar" height="512px" width="512px">
           </div>
         </div>
 
@@ -109,7 +109,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/Code.png" alt="" height="512px" width="512px">
+            <img class="img-fluid" src="img/portfolio/Code.png" alt="Code Icon" height="512px" width="512px">
           </div>
         </div>
 
@@ -121,7 +121,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/transcript.png" alt="" height="512px" width="512px">
+            <img class="img-fluid" src="img/portfolio/transcript.png" alt="Transcript Icon" height="512px" width="512px">
           </div>
         </div>
 
@@ -203,7 +203,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/resume.png" alt="" height="800px" width="800px">
+            <img class="img-fluid" src="img/portfolio/resume.png" alt="Resume Icon" height="800px" width="800px">
           </div>
         </div>
 
@@ -253,7 +253,7 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Jordan-Dickson.png" alt="" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Jordan-Dickson.png" alt="Me" height="512px"
                   width="512px;">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5" style="font-weight:bold">I am from Washington State. Being from the Pacific Northwest I
@@ -274,7 +274,7 @@
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
-                <img class="img-fluid rounded mb-5" src="img/portfolio/family-photo.png" alt="" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/family-photo.png" alt="My Family" height="512px"
                   width="512px;">
                 <p class="mb-5" style="font-weight:bold">This is my family. I am the youngest of seven children and
                   proud uncle of 15 neices and nephews. Growing
@@ -295,7 +295,7 @@
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
-                <img class="img-fluid rounded mb-5" src="img/portfolio/spain.png" alt="" height="300px" width="300px;">
+                <img class="img-fluid rounded mb-5" src="img/portfolio/spain.png" alt="Spain Icon" height="300px" width="300px;">
                 <p class="mb-5" style="font-weight:bold">For two years I was a missionary for the Church of Jesus Christ
                   of Latter Day Saints. During my time
                   I had the chance to look for service opportunities in Spain and share my beliefs with others. This was
@@ -371,7 +371,7 @@
 
                 <h3 class="title">Sudoku:</h3>
                 <br>
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Asteroids game" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Sudoku game" height="512px"
                   width="512px">
                 <p class="mb-5, description">This was my first big project. We were tasked with making a Sudoku game that
                                              would permit the user to interact with a Sudoku board. It was challenging as 
@@ -507,7 +507,7 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Resume2020.pdf" alt="" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/MyResume.png" alt="My Resume" height="512px"
                   width="512px;">
                 <br>
                 <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
