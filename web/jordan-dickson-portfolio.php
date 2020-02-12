@@ -396,12 +396,12 @@
                 <br>
 
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Languages Experience</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Language Experience</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
                   <div class="divider-custom-icon">
-                    <i class="fas fa-project-terminal"></i>
+                    <i class="fas fa-terminal"></i>
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
