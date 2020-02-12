@@ -497,7 +497,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">About Me</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">My Resume</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -507,8 +507,9 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/Jordan-Dickson.png" alt="" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/Resume2020.pdf" alt="" height="512px"
                   width="512px;">
+                <br>
                 <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
