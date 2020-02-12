@@ -394,7 +394,26 @@
                                              choose to play again if they died or if they won the game.</p>
                 <br>
                 <br>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
+
+                <!-- Portfolio Modal - Title -->
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Languages Experience</h2>
+                <!-- Icon Divider -->
+                <div class="divider-custom">
+                  <div class="divider-custom-line"></div>
+                  <div class="divider-custom-icon">
+                    <i class="fas fa-project-terminal"></i>
+                  </div>
+                  <div class="divider-custom-line"></div>
+                </div>
+                <br>
+                <h3>C++</h3>
+                <h3>Java</h3>
+                <h3>JavaScript</h3>
+                <h3>HTML/CSS</h3>
+                <h3>Willing to learn more</h3>
+
+
+                <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
                   Close Window
                 </button>
