@@ -508,7 +508,7 @@
                 </div>
                 <!-- Portfolio Modal - Image -->
                 <img class="img-fluid rounded mb-5" src="img/portfolio/MyResume.png" alt="My Resume" height="512px"
-                  width="512px;">
+                  width="512px;" style="padding:15px; border:solid">
                 <br>
                 <button class="btn btn-primary mt-3" href="#" data-dismiss="modal">
                   <i class="fas fa-times fa-fw"></i>
