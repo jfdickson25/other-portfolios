@@ -353,13 +353,13 @@
                   <div class="divider-custom-line"></div>
                 </div>
 
-                <h3 class="title">Sudoku</h3>
+                <h3 class="title">Sudoku:</h3>
                 <br>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Asteroids game" height="512px"
                   width="512px">
                 <p class="mb-5">This was my first big project.</p>
                 <!-- Portfolio Modal - Image -->
-                <h3 class="title">Asteroids</h3>
+                <h3 class="title">Asteroids:</h3>
                 <br>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Asteroids.png" alt="Asteroids game"
                   height="512px" width="512px">
