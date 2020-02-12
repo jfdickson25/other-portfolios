@@ -70,6 +70,20 @@
       <!-- Masthead Subheading -->
       <p class="masthead-subheading font-weight-light mb-0">Software Engineering - BYU-Idaho</p>
 
+      <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20"
+        target="_top">
+        <i class="fas fa-envelope"></i>
+      </a>
+      <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson" target="_blank">
+        <i class="fab fa-fw fa-linkedin-in"></i>
+      </a>
+      <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/jfdickson25/cs313.git" target="_blank">
+        <i class="fab fa-github"></i>
+      </a>
+      <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37" target="_blank">
+        <i class="fab fa-fw fa-facebook-f"></i>
+      </a>
+
     </div>
   </header>
 
@@ -165,35 +179,6 @@
 
     </div>
   </section>
-
-
-
-  <!-- Footer -->
-  <footer class="footer text-center">
-    <div class="container">
-      <div class="row">
-
-        <!-- Footer Social Icons -->
-        <div class="col-lg-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4" id="contact">Contact Me </h4>
-          <a class="btn btn-outline-light btn-social mx-1" href="mailto:jfdickson25@gmail.com?Subject=Portfolio%20"
-            target="_top">
-            <i class="fas fa-envelope"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/jordan-forrest-dickson" target="_blank">
-            <i class="fab fa-fw fa-linkedin-in"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/jfdickson25/cs313.git" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/jordan.dickson.37" target="_blank">
-            <i class="fab fa-fw fa-facebook-f"></i>
-          </a>
-        </div>
-
-      </div>
-    </div>
-  </footer>
 
   <!-- Copyright Section -->
   <section class="copyright py-4 text-center text-white">
