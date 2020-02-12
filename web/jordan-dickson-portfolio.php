@@ -23,7 +23,7 @@
 <body id="page-top">
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+  <nav class="navbar navbar-expand-lg bg-dark text-uppercase fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">My Portfolio</a>
       <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
@@ -234,9 +234,8 @@
                   catch a movie,
                   or The Social Ice Cream parlor....which is pretty obvious why I go there. </p>
                 <hr>
-                <br>
-                <br>
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">My Family</h2>
+                
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 mt-3">My Family</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
