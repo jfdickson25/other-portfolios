@@ -150,11 +150,16 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">I am an incredibly hard worker.</p>
+          <p class="lead">I am a hard worker. I bring a attitude of being willing to learn. I work well in teams
+                          and I pride myself on communicating well with others. I am also a fast learner and am willing
+                          to put in my own personal time to learn skills needed for the job.
+          </p>
         </div>
         <div class="col-lg-4 mr-auto">
-          <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and
-            add your email address to the contact form to make it fully functional!</p>
+          <p class="lead">I am goal driven. I believe that progress is not only good but necessary. Short term and
+                          long term goals have helped me get to where I am today. I feel like I would be a great 
+                          addition to any company looking for a intern who is ready to give it their all!
+          </p>
         </div>
       </div>
 
