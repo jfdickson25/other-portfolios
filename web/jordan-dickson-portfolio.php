@@ -327,6 +327,12 @@
                 </div>
 
 
+                <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Shopping Cart</a>
+                <br>
+                <br>
+                <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Fighting Simulator</a>
+
+
                 <br>
                 <br>
 
@@ -344,8 +350,6 @@
                   <div class="divider-custom-icon">
                     <i class="fas fa-project-diagram"></i>
                   </div>
-                  <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Shopping Cart</a>
-                  <a href="#" class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Fighting Simulator</a>
                   <div class="divider-custom-line"></div>
                 </div>
 
