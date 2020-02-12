@@ -26,25 +26,6 @@
   <nav class="navbar navbar-expand-lg bg-light text-uppercase fixed-top text-dark" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger text-dark" href="#page-top">My Portfolio</a>
-      <!-- <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-dark rounded"
-        type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
-        aria-expanded="false" aria-label="Toggle navigation">
-        Menu
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger text-dark" href="#portfolio">Portfolio</a>
-          </li>
-          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger text-dark" href="#whyme">WHY HIRE ME?</a>
-          </li>
-          <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger text-dark" href="#resume">Resume</a>
-          </li>
-        </ul>
-      </div> -->
     </div>
   </nav>
 
@@ -94,7 +75,7 @@
     <div class="container">
 
       <!-- Portfolio Section Heading -->
-      <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+      <h2 class="page-section-heading text-center text-uppercase text-dark mb-0">Portfolio</h2>
 
       <!-- Icon Divider -->
       <div class="divider-custom">
@@ -155,7 +136,7 @@
     <div class="container">
 
       <!-- About Section Heading -->
-      <h2 class="page-section-heading text-center text-uppercase text-white">Why Hire Me?</h2>
+      <h2 class="page-section-heading text-center text-uppercase text-dark">Why Hire Me?</h2>
 
       <!-- Icon Divider -->
       <div class="divider-custom divider-light">
@@ -213,7 +194,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">About Me</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">About Me</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -235,7 +216,7 @@
                   or The Social Ice Cream parlor....which is pretty obvious why I go there. </p>
                 <hr>
                 
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0 mt-3">My Family</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0 mt-3">My Family</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -256,7 +237,7 @@
                 <hr>
                 <br>
                 <br>
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Service Opportunities</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Service Opportunities</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -302,7 +283,7 @@
               <div class="col-lg-8">
 
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Webpages</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Webpages</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -329,7 +310,7 @@
 
 
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Projects</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Projects</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
@@ -391,7 +372,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Applicable Courses</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Applicable Courses</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
