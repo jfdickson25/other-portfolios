@@ -480,7 +480,7 @@
                 ?>
                 </tbody>
                 </table>
-                <span style="font-weight:bold; text-align:right">GPA: </span><span>3.71</span>
+                <span style="font-weight:bold; text-align:right !important">GPA: </span><span>3.71</span>
                 <br>
                 <br>
 
