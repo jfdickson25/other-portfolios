@@ -108,6 +108,7 @@
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio/Code.png" alt="Code Icon" height="512px" width="512px">
+            <h3 class="mt-3 portfolio-text">Code</h3>
           </div>
         </div>
 
@@ -120,6 +121,7 @@
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio/transcript.png" alt="Transcript Icon" height="512px" width="512px">
+            <h3 class="mt-3 portfolio-text">Grades</h3>
           </div>
         </div>
 
