@@ -15,3 +15,7 @@ p {
 .description {
     color: #12846e;
 }
+
+.portfolio-text {
+    text-align: center;
+}
