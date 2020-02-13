@@ -108,7 +108,7 @@
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio/Code.png" alt="Code Icon" height="512px" width="512px">
-            <h3 class="mt-3 portfolio-text">Code</h3>
+            <h3 class="mt-3 portfolio-text">Projects</h3>
           </div>
         </div>
 
