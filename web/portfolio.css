@@ -19,3 +19,7 @@ p {
 .portfolio-text {
     text-align: center !important;
 }
+
+li {
+    font-size:14px;
+}

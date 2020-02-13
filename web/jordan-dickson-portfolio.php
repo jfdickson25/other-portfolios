@@ -159,8 +159,8 @@
             <li>I am willing to put in my own personal time to learn skills needed for the job</li>
             <li>I am goal driven</li>  
           </ul>
-          <p>I feel like I would be a great addition to any company looking for an intern who is ready to give it their all!</p>
         </div>
+        <p>I feel like I would be a great addition to any company looking for an intern who is ready to give it their all!</p>
       </div>
 
     </div>
