@@ -200,7 +200,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/resume.png" alt="Resume Icon" height="800px" width="800px">
+            <img class="img-fluid" src="img/portfolio/resume-icon.png" alt="Resume Icon" height="800px" width="800px">
           </div>
         </div>
 
