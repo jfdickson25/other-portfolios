@@ -150,16 +150,16 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">I am a hard worker and I bring a attitude of someone willing to learn. I work well in teams
-                          and I pride myself on communicating well with others. I am also a fast learner and am willing
-                          to put in my own personal time to learn skills needed for the job.
-          </p>
-        </div>
-        <div class="col-lg-4 mr-auto">
-          <p class="lead">I am goal driven. I believe that progress is not only good but necessary. Short term and
-                          long term goals have helped me get to where I am today. I feel like I would be a great 
-                          addition to any company looking for an intern who is ready to give it their all!
-          </p>
+          <ul>
+            <li>I am a hard worker</li>
+            <li>I bring an attitude of someone willing to learn</li>
+            <li>I work well in teams</li>
+            <li>I pride myself on communicating well with others</li> 
+            <li>I am a fast learner</li>
+            <li>I am willing to put in my own personal time to learn skills needed for the job</li>
+            <li>I am goal driven</li>  
+          </ul>
+          <p>I feel like I would be a great addition to any company looking for an intern who is ready to give it their all!</p>
         </div>
       </div>
 
