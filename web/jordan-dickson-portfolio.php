@@ -160,6 +160,9 @@
             <li>I am goal driven</li>  
           </ul>
         </div>
+      </div>
+
+      <div class="row">
         <p>I feel like I would be a great addition to any company looking for an intern who is ready to give it their all!</p>
       </div>
 
