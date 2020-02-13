@@ -149,7 +149,7 @@
 
       <!-- About Section Content -->
       <div class="row">
-        <div class="col-lg-12 ml-6 mr-auto">
+        <div class="col-lg-12 ml-6">
           <ul>
             <li>I am a hard worker</li>
             <li>I bring an attitude of someone willing to learn</li>
