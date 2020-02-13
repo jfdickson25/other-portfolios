@@ -17,5 +17,5 @@ p {
 }
 
 .portfolio-text {
-    text-align: center;
+    text-align: center !important;
 }
