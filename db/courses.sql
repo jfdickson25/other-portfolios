@@ -5,7 +5,7 @@ DROP TABLE courses;
 --*********************Create tables*********************--
 CREATE TABLE courses
 ( id                        SERIAL        NOT NULL UNIQUE PRIMARY KEY
-, grade      VARCHAR(2)  NOT NULL
+, grade      VARCHAR(10)  NOT NULL
 , course     VARCHAR(100)  NOT NULL
 , code VARCHAR(10) NOT NULL
 );
@@ -66,6 +66,27 @@ INSERT INTO courses   ( code
                  VALUES ('ECEN160'
                         , 'Fundamentals of Digital Systems'
                         , 'A-');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS364'
+                        , 'Software Engineering 1'
+                        , 'Current');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS371'
+                        , 'Human Computer Interactions'
+                        , 'Current');
+
+INSERT INTO courses   ( code
+                        , course
+                        , grade)
+                 VALUES ('CS313'
+                        , 'Web Engineering 2'
+                        , 'Current');
 
 
 \echo --*********************List all from character*********************--
