@@ -95,6 +95,7 @@
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio/user.png" alt="User Avatar" height="512px" width="512px">
+            <h3>About Me</h3>
           </div>
         </div>
 
@@ -103,7 +104,6 @@
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-dark">
-                <h3>About Me</h3>
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
