@@ -149,14 +149,14 @@
 
       <!-- About Section Content -->
       <div class="row">
-        <div class="col-lg-7 ml-auto mr-auto">
+        <div class="col-lg-5 ml-auto mr-auto">
           <ul>
             <li>I am a hard worker</li>
             <li>I bring an attitude of someone willing to learn</li>
             <li>I work well in teams</li>
             <li>I pride myself on communicating well with others</li> 
             <li>I am a fast learner</li>
-            <li>I am willing to put in my own personal time to learn skills needed for the job</li>
+            <li>Will use personal time to learn skills needed for the job</li>
             <li>I am goal driven</li>  
           </ul>
         </div>
