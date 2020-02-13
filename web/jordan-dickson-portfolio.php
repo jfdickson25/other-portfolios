@@ -520,10 +520,10 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-1" src="img/portfolio/resume1.jpg" alt="My Resume" height="512px"
+                <img class="img-fluid rounded mb-1" src="img/portfolio/resume1.png" alt="My Resume" height="512px"
                   width="512px;" style="padding:15px; border:solid">
                 <br>
-                <img class="img-fluid rounded mb-5" src="img/portfolio/resume2.jpg" alt="My Resume" height="512px"
+                <img class="img-fluid rounded mb-5" src="img/portfolio/resume2.png" alt="My Resume" height="512px"
                 width="512px;" style="padding:15px; border:solid">
                 <br>
                 <a href="Resume2020.pdf" class="btn btn-primary btn-lg mb-3" role="button" aria-disabled="true" target="_blank" width="250px">PDF</a>
