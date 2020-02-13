@@ -95,7 +95,7 @@
               </div>
             </div>
             <img class="img-fluid" src="img/portfolio/user.png" alt="User Avatar" height="512px" width="512px">
-            <h3 class="mt-1 portfolio-text">About Me</h3>
+            <h3 class="mt-.5 portfolio-text">About Me</h3>
           </div>
         </div>
 
