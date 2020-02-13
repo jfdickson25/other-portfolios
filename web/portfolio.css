@@ -18,6 +18,7 @@ p {
 
 .portfolio-text {
     text-align: center !important;
+    text-decoration: underline !important;
 }
 
 li {
