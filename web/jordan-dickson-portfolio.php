@@ -478,11 +478,14 @@
                     <?
                   }
                 ?>
+                </tbody>
+                </table>
+                <table style="border:none">
                 <tr style="border:none">
                   <td style="border:none"></td>
+                  <td style="border:none"></td>
                   <td style="border:none"><span style="font-weight:bold">GPA: </span><span>3.71</span></td>
-                </tr>
-                </tbody>
+                  </tr>
                 </table>
                 <br>
                 <br>
