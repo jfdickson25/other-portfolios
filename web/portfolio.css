@@ -1,9 +1,12 @@
+body {
+    font-style: oblique;
+}
 p {
     font-weight: bold;
 }
 .back-color {
     color: black !important;
-    background-color: #d3f3ff!important;
+    background-color: 	#B5CFC4!important;
 }
 
 .title {
@@ -32,4 +35,8 @@ li {
 .letter {
     color:#5C777F;
     font-size: 24px;
+}
+
+.back-pic {
+    background-image: url("floral-background.jpg") !important;
 }
