@@ -1,4 +1,4 @@
-<?php ?>
+<!DOCTYPE html>
 
 <head>
 
@@ -459,28 +459,9 @@
                     </tr>
                   </thead>
                   <tbody>
-                <?
-                  require "connect.php";
-                  $db = get_db();
-
-                  $statement = $db->prepare('SELECT 
-                                        code AS "Course Code"
-                                      , course AS "Course Description"
-                                      , grade AS "Grade"
-                                      FROM courses'); 
-                  $statement->execute();
-                  while ($row = $statement->fetch(PDO::FETCH_ASSOC)){
-                    ?>
-
-                        <tr>
-                          <td><? echo $row['Course Code'];?></td>
-                          <td><? echo $row['Course Description'];?></td>
-                          <td><? echo $row['Grade']; ?></td>
-                        </tr>
-
-                    <?
-                  }
-                ?>
+                  <td>CM 245</td>
+                  <td>Communications in the real world</td>
+                  <td>A</td>
                 </tbody>
                 </table>
                 <br>
