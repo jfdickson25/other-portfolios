@@ -3,7 +3,7 @@ p {
 }
 .back-color {
     color: black !important;
-    background-color: #ced4da !important;
+    background-color: #d3f3ff!important;
 }
 
 .title {
@@ -23,4 +23,13 @@ p {
 
 li {
     font-size:21px;
+}
+
+.let {
+    color:#5C777F !important;
+}
+
+.letter {
+    color:#5C777F;
+    font-size: 24px;
 }
