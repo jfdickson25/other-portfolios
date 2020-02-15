@@ -401,10 +401,12 @@
                 <br>
                 <br>
                 <hr>
+                <br>
+                <br>
                 
 
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-dark text-uppercase mt-3">Language Experience</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase">Language Experience</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
