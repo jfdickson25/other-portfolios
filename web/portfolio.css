@@ -42,11 +42,6 @@ li {
 }
 
 .full-name {
-    text-shadow: 
-    -2px -2px 0 white,  
-    2px -2px 0 white,
-    -2px 2px 0 white,
-     2px 2px 0 white;
-     color: #B5CFC4 !important;
+     color: white !important;
 }
 
