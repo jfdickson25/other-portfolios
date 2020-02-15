@@ -379,7 +379,7 @@
                 <br>
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Sudoku.png" alt="Sudoku game" height="512px"
                   width="512px">
-                <p class="mb-5, description">This was my first big project. We were tasked with making a Sudoku game that
+                <p class="mb-5, description" style="color:black">This was my first big project. We were tasked with making a Sudoku game that
                                              would permit the user to interact with a Sudoku board. It was challenging as 
                                              it was my first time writing code. Althought it was challenging it was also
                                              very satisfying to finish and have something that I had created on my own.</p>
@@ -391,7 +391,7 @@
                 <img class="img-fluid rounded mb-5" src="img/portfolio/Asteroids.png" alt="Asteroids game"
                   height="512px" width="512px">
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5, description">This was our final project in object oriented programming. This was one
+                <p class="mb-5, description" style="color:black">This was our final project in object oriented programming. This was one
                                              of the first projects where I took the initiative to go above and beyond.
                                              It was only required to make asteroids, I wanted to make the project my
                                              own. I added colors and a scoring mechanism that would let the user know
