@@ -400,9 +400,11 @@
                                              choose to play again if they died or if they won the game.</p>
                 <br>
                 <br>
+                <hr>
+                
 
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-dark text-uppercase mb-0">Language Experience</h2>
+                <h2 class="portfolio-modal-title text-dark text-uppercase mt-3">Language Experience</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
