@@ -346,7 +346,9 @@
                 <a href="https://frozen-reaches-00850.herokuapp.com/prove/prove03/browse_items.php" class="btn btn-primary btn-lg" role="button" aria-disabled="true" target="_blank" width="250px">Shopping Cart</a>
                 <br>
                 <br>
-                <a href="https://frozen-reaches-00850.herokuapp.com/prove/prove05/prove05.php" class="btn btn-primary btn-lg" role="button" aria-disabled="true" target="_blank" width="250px">Fighting Simulator</a>
+                <a href="https://frozen-reaches-00850.herokuapp.com/prove/prove05/prove05.php" target="_blank">
+                <img class="img-fluid rounded mb-5" src="img/portfolio/fighting-simulator.png" alt="Spain Icon" height="512px" width="800px;" style="border: dotted">
+                </a>
 
 
                 <br>
