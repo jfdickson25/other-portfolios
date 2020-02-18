@@ -25,3 +25,9 @@ li {
     font-size:21px;
 }
 
+.back-pic {
+    background-image: url("mt-rainier.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: contain;
+}
+
