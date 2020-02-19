@@ -3,7 +3,7 @@ p {
 }
 .back-color {
     color: black !important;
-    background-color: #D6E8BD !important;
+    background-color: rgb(20, 82, 80) !important;
 }
 
 .title {
@@ -25,9 +25,11 @@ li {
     font-size:21px;
 }
 
+
+
 .back-pic {
-    background-image: url("mt-rainier.jpg") !important;
-    background-repeat: no-repeat !important;
-    background-size: contain;
+    background-image: url("mountain.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
