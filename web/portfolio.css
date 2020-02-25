@@ -39,6 +39,8 @@ li {
 
 .back-pic {
     background-image: url("floral-background.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .full-name {
