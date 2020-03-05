@@ -6,7 +6,11 @@ p {
 }
 .back-color {
     color: black !important;
+<<<<<<< HEAD
     background-color: 	#B5CFC4!important;
+=======
+    background-color: rgb(20, 82, 80) !important;
+>>>>>>> 5c6a99b6ce7a37c5460efc605060155dd8274af1
 }
 
 .title {
@@ -28,6 +32,7 @@ li {
     font-size:21px;
 }
 
+<<<<<<< HEAD
 .let {
     color:#5C777F !important;
 }
@@ -39,11 +44,22 @@ li {
 
 .back-pic {
     background-image: url("floral-background.jpg") !important;
+=======
+
+
+.back-pic {
+    background-image: url("mt-rainier.jpg") !important;
+>>>>>>> 5c6a99b6ce7a37c5460efc605060155dd8274af1
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+<<<<<<< HEAD
 .full-name {
      color: white !important;
+=======
+.becu {
+    color: #8E2F5B;
+>>>>>>> 5c6a99b6ce7a37c5460efc605060155dd8274af1
 }
 
