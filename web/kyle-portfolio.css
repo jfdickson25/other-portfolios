@@ -1,12 +1,9 @@
-body {
-    font-style: oblique;
-}
 p {
     font-weight: bold;
 }
 .back-color {
     color: black !important;
-    background-color: 	#B5CFC4!important;
+    background-color: rgb(20, 82, 80) !important;
 }
 
 .title {
@@ -28,22 +25,15 @@ li {
     font-size:21px;
 }
 
-.let {
-    color:#5C777F !important;
-}
 
-.letter {
-    color:#5C777F;
-    font-size: 24px;
-}
 
 .back-pic {
-    background-image: url("floral-background.jpg") !important;
+    background-image: url("mt-rainier.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.full-name {
-     color: white !important;
+.becu {
+    color: #8E2F5B;
 }
 
